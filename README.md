@@ -1,4 +1,3 @@
- Ivana here👋
 
 - 🔭 I’m currently working on something cool :smirk:
 - 🌱 I’m currently learning React :computer:
